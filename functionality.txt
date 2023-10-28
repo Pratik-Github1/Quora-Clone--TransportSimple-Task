@@ -1,0 +1,45 @@
+## Application Functionality
+
+### User Registration
+
+- Open the application and click on the "Register" link on the login page.
+- Complete the registration form, providing a username, email, and password.
+- If the password and confirm password do not match, an error message will be displayed.
+- Once registered, you can log in using your credentials.
+
+### User Login and Dashboard
+
+- Log in with your registered username and password.
+- You will be redirected to the dashboard.
+- The dashboard displays options to post questions, view questions, post answers, like answers, and log out.
+
+### Post Questions
+
+- Click on the "Post Questions" option on the dashboard.
+- Provide a title and description for your question.
+- Click "Submit" to post the question.
+
+### View Questions
+
+- Click on the "View Questions" option on the dashboard.
+- You will see a list of questions posted by other users.
+
+### Post Answers
+
+- Click on a specific question to view its details.
+- At the bottom of the question details, you can post answers.
+- Provide your answer and click "Submit" to post it.
+
+### Like Answers
+
+- While viewing answers to a question, you can click a "Like" button to like an answer.
+
+### Log Out
+
+- To log out, click the "Log Out" option on the dashboard.
+
+
+
+username - Pratik
+password - 123
+Enjoy using the application!
